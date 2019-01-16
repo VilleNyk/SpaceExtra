@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Seuraava SpaceX laukaisu</string>
+
+    <string name="about">Tehty omana projektina omaksi iloksi. \n\n Tämä sovellus hakee seuraavan SpaceX laukaisun hyödyntäen /r/SpaceX API:a. \n\n Pääsivun taustakuva SpaceX:n Flickr:stä (Public Domain) \n\n</string>
+    <string name="filter_title">SpaceJude</string>
+    <string name="info">Info</string>
+</resources>

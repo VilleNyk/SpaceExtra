@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.spacejude.MainActivity">
+
+    <item
+        android:id="@+id/infoButton"
+        android:icon="@drawable/ic_action_name"
+        android:title="@string/info"
+        app:showAsAction="always" />
+
+
+
+</menu>

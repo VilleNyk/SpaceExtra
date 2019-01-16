@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.spacejude.MainActivity">
+
+
+    <TextView
+        android:id="@+id/missionName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textColor="@color/colorAccent"
+        android:shadowRadius="1.5"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowColor="#000"/>
+
+    <TextView
+        android:id="@+id/rocketName"
+        android:layout_below="@id/missionName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textColor="#FFF"
+        android:shadowColor="#000"
+        android:shadowRadius="1.5"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/launchDate"
+        android:layout_below="@id/rocketName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textColor="#FFF"
+        android:shadowColor="#000"
+        android:shadowRadius="1.5"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/timer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textColor="#FFF"
+        android:shadowColor="#000"
+        android:shadowRadius="1.5"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:layout_marginTop="200dp"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold" />
+
+</RelativeLayout>
+
+
