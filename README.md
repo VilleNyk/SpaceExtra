@@ -9,4 +9,7 @@ Asenna ohjelma apk tiedostosta (ulkoisten lähteiden tulee olla sallittuna Andro
 
 ![Kuva sovelluksesta](http://users.jyu.fi/~viukjony/appikuva.png)
 
-TODO: Keksi parempi nimi?
+TODO: 
+Lisää näkymä listaamaan kaikki tulevat laukaisut.
+
+Keksi parempi nimi?
